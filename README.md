@@ -17,6 +17,7 @@ Além dos links acima deverão ser consultados os materiais disponíveis na Cent
 ## ENTREGA **31/05/2021**
 O projeto deverá ser entregue via Google Forms, contendo o documento final e os dados sobre os integrantes. **Para formalizar a entrega do projeto**, apenas um integrante do grupo deve submeter o formulário com:
 * Dados:
+	+ 
 	+ **Nome e RA de cada um dos integrantes do grupo**. 
 	+ **Documento no formato .DOCX**.
 	
